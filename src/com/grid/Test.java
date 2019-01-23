@@ -24,7 +24,7 @@ public class Test {
 		driver.get("https://www.google.com/");
 		
 		
-		System.out.println("Blog is: ");
+		System.out.println("Blog is: gaurav ");
 		
 		System.out.println("Blog ttile is: "+driver.getTitle());
 		
